@@ -1,15 +1,32 @@
 ### Date created
-Include the date you created this project and README file.
+
+This project was created at 6th of December 2018.
 
 ### Project Title
-Replace the Project Title
+
+Python Script to explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+
+The datasets used for this script contain bike share data for the cities Chicago, New York City and Washington.
+Some data wrangling has been performed by Udacity's staff before being provided to the students.
+
+The data files for all cities contain the same six columns:
+
+Start Time
+End Time
+Trip Duration (in seconds)
+Start Station
+End Station
+User Type (Subscriber or Customer)
+
+The Chicago and New York City files also contain the following two columns:
+
+Gender
+Birth Year
 
 ### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+chicago.csv
+new_york_city.csv
+washington.csv
