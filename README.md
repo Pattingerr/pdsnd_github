@@ -1,5 +1,4 @@
-### Date created
-
+Date created
 This project was created at 6th of December 2018.
 
 ### Project Title
