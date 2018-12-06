@@ -30,3 +30,15 @@ Birth Year
 chicago.csv
 new_york_city.csv
 washington.csv
+
+### Questions explored
+
+What is the most popular month for start time?
+What is the most popular day of week (Monday, Tuesday, etc.) for start time?
+What is the most popular hour of day for start time?
+What is the total trip duration and average trip duration?
+What is the most popular start station and most popular end station?
+What is the most popular trip?
+What are the counts of each user type?
+What are the counts of gender?
+What are the earliest and the most recent birth years?
